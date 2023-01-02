@@ -1,4 +1,4 @@
-# lINK TO MY PROJECT LIVE : [Live Project](https://viswanathportfolio.netlify.app).
+# LINK TO MY PROJECT LIVE : [Live Project](https://viswanathportfolio.netlify.app).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
